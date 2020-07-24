@@ -3,4 +3,4 @@
 - 💬 Ask me about anything. I shall try to help.
 - 📫 How to reach me: https://mrpandey1.github.io/Portfolio-web/
 
-[![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=mrpandey1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=mrpandey1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)    ![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif =250x250)
