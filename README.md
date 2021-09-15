@@ -1,4 +1,4 @@
-### Hey Ninjas! 👋 I am Nishant Pandey, a third year undergraduate, pursuing B.E in Information Technology.
+### Hey Ninjas! 👋 I am Nishant Pandey, a fourth year undergraduate, pursuing B.E in Information Technology.
 - 🌱 I’m currently working on flutter,python,MERN and ML projects.
 - 📫 How to reach me: pandeynishant12345@gmail.com
 
